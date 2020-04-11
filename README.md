@@ -1,1 +1,1 @@
-# ebs-online-class-watch-program
+자동으로 EBS 온라인 클래스 영상을 자동으로 시청해주는 
